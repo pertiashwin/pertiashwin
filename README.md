@@ -1,8 +1,8 @@
-# Hi 👋 My name is Ashvin Perti !
+# Hi 👋 Myself Ashwin Perti !
 
-I am a self-taught web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Assiatant Professor in Computer Science and Engineering. Working for achieving the Target of PhD. in Sentiment Analysis. My passion for learning Natural Language Processing using Spacy, Wordnet and NLTK Package lies with dreaming up ideas and making applications using Chatbot, Hugging Face. i take great care in the experience, architecture, and code quality of the things I build.
 
-- 🌍 I'm based in India 🇮🇳
+- 🌍 I'm based in India - working in Galgotias University
 - 🤝 I'm open to collaborating on Interesting Projects
 
 ## Skills
