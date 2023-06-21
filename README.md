@@ -1,6 +1,7 @@
-# Hi 👋 Myself Ashwin Perti !
+# About me - 👋 Ashwin Perti !
+I am working as Asst. Prof. and Trainer (Computer Science and Engineering) at the School of Computer Science and Engineering, Galgotias University, Greater Noida. I am pursuing my PhD in Computer Engineering and currently working in the area of Deep Learning, NLP, Sentiment Analysis, Text Summarization, CHATGPT, and ML.
 
-Assiatant Professor in Computer Science and Engineering. Working for achieving the Target of PhD. in Sentiment Analysis. My passion for learning Natural Language Processing using Spacy, Wordnet and NLTK Package lies with dreaming up ideas and making applications using Chatbot, Hugging Face. i take great care in the experience, architecture, and code quality of the things I build.
+My passion for learning Natural Language Processing using Spacy, Wordnet, and NLTK Package lies in dreaming up ideas and making applications using Chatbot, and Hugging Face.
 
 - 🌍 I'm based in India - working in Galgotias University
 - 🤝 I'm open to collaborating on Interesting Projects
